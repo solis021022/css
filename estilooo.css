@@ -1,0 +1,102 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box
+  }
+  div{
+    width: 200px;
+    height: 200px;
+    background: darkcyan;
+    border: 5px groove blue;
+    box-shadow: 5px 5px 5px cyan;
+    margin: 100px;
+    padding: 50px;
+  }
+  #diferente{
+   width: 200px;
+    height: 200px;
+    background: blueviolet;
+    border: 5px dashed black;
+    box-shadow: 5px 5px 5px orangered;
+    margin: 100px;
+    padding: 50px;
+  }
+  #solis{
+   width: 200px;
+    height: 200px;
+    background: coral;
+    border: 5px inset orange;
+    box-shadow: 15px -5px 8px orangered;
+    margin: 100px;
+    padding: 50px;
+  }
+  #style{
+   width: 200px;
+    height: 200px;
+    background: skyblue;
+    border: 5px solid lightblue;
+    box-shadow: 8px -5px -5px black;
+    margin: 100px;
+    padding: 50px;
+  }
+  
+  
+  #wakko{
+   width: 200px;
+    height: 200px;
+    background: darkcyan;
+    border: 5px hidden blue;
+    box-shadow: -25px -35px -5px cyan;
+    margin: 100px;
+    padding: 50px;
+  }
+  
+  #a{
+   width: 200px;
+    height: 200px;
+    background: lawngreen;
+    border: 5px none darkgreen;
+    box-shadow: 10px -15px 5px greenyellow;
+    margin: 100px;
+    padding: 50px;
+  }
+  
+  #b{
+   width: 200px;
+    height: 200px;
+    background: pink;
+    border: 5px groove deeppink;
+    box-shadow: -5px -5px -5px hotpink;
+    margin: 100px;
+    padding: 50px;
+  }
+  
+  
+  #c{
+   width: 200px;
+    height: 200px;
+    background: darkcyan;
+    border: 20px ridge black;
+    box-shadow: -5px 5px -5px rebeccapurple;
+    margin: 100px;
+    padding: 50px;
+  }
+  
+  #d{
+   width: 200px;
+    height: 200px;
+    background: darkcyan;
+    border: 12px inset yellowgreen;
+    box-shadow: 5px -5px -5px silver;
+    margin: 100px;
+    padding: 50px;
+  }
+  #e{
+   width: 200px;
+    height: 200px;
+    background: darkcyan;
+    border: 12px outset yellow;
+    box-shadow: -10px 6px 5px greenyellow;
+    margin: 100px;
+    padding: 50px;
+  }

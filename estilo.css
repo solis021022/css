@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding: 0;
+    boxing: border-box;
+  }
+  
+  img:hover { background: yellow;
+  transition:  2s all ellow;
+  }
+  
+  header>h1{
+    color: skyblue;
+  }
+  button.classic.primary{
+    background: hotpink;
+  }
+  h4,h2,h3 {
+    background: darkred;
+  }
+  img{
+    margin: 20px;
+    background: blueviolet;
+    
+  }
